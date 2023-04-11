@@ -24,8 +24,8 @@
     "node-pre-gyp": "^0.13.0",
     "pg": "^7.12.1",
     "query-string": "^6.8.3",
-    "redis": "^2.8.0",
-    "sqlite3": "^4.1.0",
-    "uniqid": "^5.0.3"
+    "redis": "4.x.x",
+    "sqlite3": "5.x.x",
+    "uniqid": "5.x.x"
   }
 }
